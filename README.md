@@ -6,6 +6,7 @@ Tiny but very useful ideas.
 * [How to start](https://dev.to/nextdotxyz/this-picture-will-change-the-way-you-learn-tocode-4kmh)
 * [FlagArguments](https://www.martinfowler.com/bliki/FlagArgument.html)
 * [Refactoring](https://sourcemaking.com/refactoring)
+* [Pool sizing](https://github.com/brettwooldridge/HikariCP/wiki/About-Pool-Sizing)
 
 [Way of Working]
 * [Short feedback for solo devs](https://dev.to/vickylai/how-to-set-up-a-short-feedback-loop-as-a-solo-coder-4gbc?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email)
