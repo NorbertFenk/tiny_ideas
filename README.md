@@ -22,3 +22,9 @@ Tiny but very useful ideas.
 
 [WSL setup]
 * [Great WSL tutorial](https://nickjanetakis.com/blog/using-wsl-and-mobaxterm-to-create-a-linux-dev-environment-on-windows)
+
+[Go]
+* [Introducing-pkger](https://blog.gobuffalo.io/introducing-pkger-static-file-embedding-in-go-1ce76dc79c65)
+
+[Docker]
+* [Optimization tips and tricks](https://vsupalov.com/cache-docker-build-dependencies-without-volume-mounting/)
