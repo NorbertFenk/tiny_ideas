@@ -26,6 +26,7 @@ Tiny but very useful ideas.
 [Go]
 * [Introducing-pkger](https://blog.gobuffalo.io/introducing-pkger-static-file-embedding-in-go-1ce76dc79c65)
 * [go generate: One File to Rule Them All. Konrad Reiche, October.](https://www.youtube.com/watch?v=RfKgBI4JgSI)
+* [Making and using HTTP midlleware] (https://www.alexedwards.net/blog/making-and-using-middleware)
 
 [Docker]
 * [Optimization tips and tricks](https://vsupalov.com/cache-docker-build-dependencies-without-volume-mounting/)
