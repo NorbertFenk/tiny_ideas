@@ -9,6 +9,13 @@ Tiny but very useful ideas.
 * [Pool sizing](https://github.com/brettwooldridge/HikariCP/wiki/About-Pool-Sizing)
 * [Web Architecture 101](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)
 
+[Courses for interview preparation]
+* [Pluralsight](https://www.pluralsight.com/product/skills/individuals)
+* [FreeCodeCamp](https://www.freecodecamp.org/)
+* [Coding interview university](https://github.com/jwasham/coding-interview-university)
+* [LeetCode](https://leetcode.com/)
+* [AlgoExpert](https://www.algoexpert.io/product)
+
 [Way of Working]
 * [Short feedback for solo devs](https://dev.to/vickylai/how-to-set-up-a-short-feedback-loop-as-a-solo-coder-4gbc?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email)
 
