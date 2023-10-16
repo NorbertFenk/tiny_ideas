@@ -41,3 +41,9 @@ Tiny but very useful ideas.
 
 [Web]
 * [CORS introduction](https://www.moesif.com/blog/technical/cors/Authoritative-Guide-to-CORS-Cross-Origin-Resource-Sharing-for-REST-APIs/)
+
+[Software team building]
+* [Building a high-performing product team](https://medium.com/lead-with-tempo/building-a-high-performing-product-team-764f1d103e41)
+
+[Notetaking]
+* [How I Take (and Organise) My Notes As a Software Engineer by Alex Hyett](https://www.youtube.com/watch?v=4DA5OPGIS2E)
