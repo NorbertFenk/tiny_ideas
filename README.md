@@ -1,6 +1,9 @@
 # tiny-ideas
 Tiny but very useful ideas.
 
+[Blogs]
+* [Marco Behler](https://www.marcobehler.com/)
+
 [Coding]
 * [Algorithms in pictures](https://idea-instructions.com/)
 * [How to start](https://dev.to/nextdotxyz/this-picture-will-change-the-way-you-learn-tocode-4kmh)
