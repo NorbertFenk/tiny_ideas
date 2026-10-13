@@ -5,6 +5,7 @@ Tiny but very useful ideas.
 * [AI Engineering from Scratch](https://aiengineeringfromscratch.com/)
 * [Lean CTX](https://github.com/yvgude/lean-ctx)
 * [ponytail](https://github.com/dietrichgebert/ponytail)
+* [Skills by Matt Pocock](https://github.com/mattpocock/skills)
 
 [Go]
 * [Better Go Playground](https://goplay.tools/)
