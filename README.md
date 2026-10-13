@@ -10,7 +10,7 @@ Tiny but very useful ideas.
 * [FlagArguments](https://www.martinfowler.com/bliki/FlagArgument.html)
 * [Refactoring](https://sourcemaking.com/refactoring)
 * [Pool sizing](https://github.com/brettwooldridge/HikariCP/wiki/About-Pool-Sizing)
-* [Web Architecture 101](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)
+* [Web Architecture 101](https://medium.com/storyblocks-engineering/web-architecture-101-a3224e126947)
 
 [Courses for interview preparation]
 * [Pluralsight](https://www.pluralsight.com/product/skills/individuals)
