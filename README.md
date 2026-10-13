@@ -1,5 +1,5 @@
 # tiny-ideas
-Tiny but very useful ideas.
+Tiny but very useful ideas/solutions/tools/platforms.
 
 [AI]
 * [AI Engineering from Scratch](https://aiengineeringfromscratch.com/)
@@ -42,12 +42,6 @@ Tiny but very useful ideas.
 * [Git rebase vs Git merge](https://dev.to/neshaz/git-merge-vs-git-rebase-5134)
 * [Great analogy](https://dev.to/konrad_126/rebase-to-the-future-13j9)
 * [Github contribution tips and tricks](https://dev.to/ignoreintuition/tips-and-tricks-to-finding-issues-to-contribute-to-on-github-2lde?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email)
-
-[WSL setup]
-* [Great WSL tutorial](https://nickjanetakis.com/blog/using-wsl-and-mobaxterm-to-create-a-linux-dev-environment-on-windows)
-
-[Docker]
-* [Optimization tips and tricks](https://vsupalov.com/cache-docker-build-dependencies-without-volume-mounting/)
 
 [Web]
 * [CORS introduction](https://www.moesif.com/blog/technical/cors/Authoritative-Guide-to-CORS-Cross-Origin-Resource-Sharing-for-REST-APIs/)
