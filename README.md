@@ -38,11 +38,9 @@ Tiny but very useful ideas.
 * [Short feedback for solo devs](https://dev.to/vickylai/how-to-set-up-a-short-feedback-loop-as-a-solo-coder-4gbc?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email)
 
 [Git && GitHub]
-* [Emoji cheat sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
 * [GitHub's markdown guide](https://guides.github.com/features/mastering-markdown/)
 * [Git rebase vs Git merge](https://dev.to/neshaz/git-merge-vs-git-rebase-5134)
 * [Great analogy](https://dev.to/konrad_126/rebase-to-the-future-13j9)
-* [10 common problem and solution](https://dev.to/citizen428/10-common-git-problems-and-how-to-fix-them-234o?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email)
 * [Github contribution tips and tricks](https://dev.to/ignoreintuition/tips-and-tricks-to-finding-issues-to-contribute-to-on-github-2lde?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email)
 
 [WSL setup]
