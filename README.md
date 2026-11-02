@@ -15,6 +15,10 @@ Tiny but very useful ideas/solutions/tools/platforms.
 * [Free coding exercises](https://gophercises.com/)
 * [Making and using HTTP midlleware](https://www.alexedwards.net/blog/making-and-using-middleware)
 
+[JetBrains learning resources]
+* [JetBrains Academy](https://www.jetbrains.com/academy/)
+* [Hyperskill](https://hyperskill.org/)
+
 [Blogs]
 * [Marco Behler](https://www.marcobehler.com/)
 
