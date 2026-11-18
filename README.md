@@ -21,6 +21,9 @@ Tiny but very useful ideas/solutions/tools/platforms.
 * [bashcrawl](https://github.com/bamr87/bashcrawl)
 * [explainshell](https://explainshell.com/)
 
+[System design]
+* [Designed to scale](https://designed-to-scale.vercel.app/)
+
 [JetBrains learning resources]
 * [JetBrains Academy](https://www.jetbrains.com/academy/)
 * [Hyperskill](https://hyperskill.org/)
