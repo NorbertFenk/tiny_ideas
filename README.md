@@ -23,6 +23,7 @@ Tiny but very useful ideas/solutions/tools/platforms.
 
 [System design]
 * [Designed to scale](https://designed-to-scale.vercel.app/)
+* [Microservices Patterns](https://microservices.io/patterns/index.html)
 
 [JetBrains learning resources]
 * [JetBrains Academy](https://www.jetbrains.com/academy/)
